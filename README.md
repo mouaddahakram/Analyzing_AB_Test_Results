@@ -1,6 +1,6 @@
 # Analyzing_AB_Test_Results
 
-# Table of Contents
+## Table of Contents
 - [Introduction](#intro)
 - [Part I - Probability](#probability)
 - [Part II - A/B Test](#ab_test)
