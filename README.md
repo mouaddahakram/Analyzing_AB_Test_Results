@@ -1,10 +1,9 @@
 # Analyzing_AB_Test_Results
 
 ## Table of Contents
-- [Introduction](#intro)
-- [Part I - Probability](#probability)
-- [Part II - A/B Test](#ab_test)
-- [Part III - Regression](#regression)
+- *Part I - Probability*
+- *Part II - A/B Test*
+- *Part III - Regression*
 
 A/B tests are very commonly performed by data analysts and data scientists.  It is important that we get some practice working with the difficulties of these 
 
